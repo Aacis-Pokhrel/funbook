@@ -1,0 +1,27 @@
+.topbar{
+	background-color: #004080;
+	min-height: 75px;
+	
+}
+.fb{
+	color: white;
+}
+.C{
+	margin-top:50px;
+}
+.img{
+	min-height:70px;
+	max-height: 100px;
+	min-width: 70px;
+	max-width: 100px;
+}
+.main{
+	background-color: #eaecef;
+	
+}
+.fbb{
+	margin: auto;
+}
+.pp{
+	margin-top: 5px;
+}
